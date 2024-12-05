@@ -47,3 +47,6 @@ defmodule Day2 do
     end
   end
 end
+
+IO.puts(Day2.part1())
+IO.puts(Day2.part2())
